@@ -2,7 +2,7 @@
     <img src="./gif/github 1.gif" alt="">
 </p>
 <h1 align="center">Hi 👋, I'm Rakibul</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">Hi, I'm Rakibul, a passionate Frontend Developer from Bangladesh. I specialize in JavaScript and have extensive experience with the MERN stack (MongoDB, Express.js, React, Node.js). I enjoy building web applications that are both functional and aesthetically pleasing. I'm always eager to learn new technologies and improve my skills. Feel free to explore my projects and get in touch!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0f7&label=Profile%20views&color=0e75b6&style=flat" alt="r0f7" /> </p>
 
